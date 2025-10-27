@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  content: MyText
+  course: one
+  order_index: 1
+
+two:
+  title: MyString
+  description: MyText
+  content: MyText
+  course: two
+  order_index: 1

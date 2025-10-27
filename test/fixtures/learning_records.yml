@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  student: one
+  lesson: one
+  duration: 1
+  completed: false
+  completed_at: 2025-10-27 22:33:50
+
+two:
+  student: two
+  lesson: two
+  duration: 1
+  completed: false
+  completed_at: 2025-10-27 22:33:50

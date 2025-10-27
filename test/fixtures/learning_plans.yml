@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  student: one
+  lesson: one
+  scheduled_at: 2025-10-27 22:34:37
+  completed: false
+
+two:
+  student: two
+  lesson: two
+  scheduled_at: 2025-10-27 22:34:37
+  completed: false
