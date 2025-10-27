@@ -5,7 +5,7 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :validatable
 
   # Role enum: student(0), teacher(1), admin(2)
-  enum role: { student: 0, teacher: 1, admin: 2 }
+  enum :role, { student: 0, teacher: 1, admin: 2 }
 
   # Associations
   # Teacher associations
